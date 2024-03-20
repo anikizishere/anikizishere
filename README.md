@@ -8,7 +8,7 @@ I am studying to become a .NET Software Developer during 2023-2025. Studying at:
 
 * 🌍  I'm based in Örebro, Sweden
 * ✉️  You can contact me at [annika.spector@gmail.com](mailto:annika.spector@gmail.com)
-* 🚀  I'm currently working on [Game App - BackPaker Light](http://notdone)
+* 🚀  I'm currently working on Development of web applications.
 * 🧠  I'm learning C#, SQL, NET.MAUI, Visual Studio, Microsoft SQL Server, Scrum/Kanban, MongoDB
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Why do Java programmers have to wear glasses? Because they don’t C# 😉
