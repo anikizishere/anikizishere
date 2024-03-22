@@ -6,12 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am studying to become a .NET Software Developer during 2023-2025. Studying at: Higher Vocational Education Campus Nyköping, www.campusnykoping.se
 
-* 🌍  I'm based in Örebro, Sweden
-* ✉️  You can contact me at [annika.spector@gmail.com](mailto:annika.spector@gmail.com)
+* 🌍  I'm based in Örebro, Sweden.
+* ✉️  You can contact me at LinkedIn and Discord.
 * 🚀  I'm currently working on Development of web applications.
-* 🧠  I'm learning C#, SQL, NET.MAUI, Visual Studio, Microsoft SQL Server, Scrum/Kanban, MongoDB
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Why do Java programmers have to wear glasses? Because they don’t C# 😉
+* 🧠  I'm learning C#, HTML, CSS, SQL, Visual Studio, Visual Studio Code, NET.MAUI, Microsoft SQL Server, Scrum/Kanban, MongoDB
+* 🤝  I'm open to collaborating on Projects  
 
 ### Skills
 
